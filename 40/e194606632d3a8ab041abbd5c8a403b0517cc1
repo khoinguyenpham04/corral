@@ -1,0 +1,35 @@
+Sources/CorralCore/Classifier.swift
+  s_4914eb7d946267::t_d95c9e6048c126 125-128,172-179,185-188
+Sources/CorralUI/Rows.swift
+  s_4914eb7d946267::t_6338d6a3661c73 378-379,385-394,415-428
+  s_4914eb7d946267::t_e7ea5a168c604b 429-431
+Sources/CorralUI/Cards.swift
+  s_4914eb7d946267::t_6338d6a3661c73 4-5,12-42,46,52-60,77,85,90,96-97
+Tests/CorralCoreTests/SnapshotTests.swift
+  s_4914eb7d946267::t_d95c9e6048c126 10,144-155
+  s_4914eb7d946267::t_0eb2a2d2286274 156-178
+Sources/CorralCore/SnapshotBuilder.swift
+  s_4914eb7d946267::t_0eb2a2d2286274 53,185-186,195-196,202-208
+  s_4914eb7d946267::t_d95c9e6048c126 90-99
+  s_4914eb7d946267::t_352d499605520b 209-210
+Sources/CorralCore/Worktrees.swift
+  s_4914eb7d946267::t_0eb2a2d2286274 99-104
+Sources/CorralPreview/main.swift
+  s_4914eb7d946267::t_6338d6a3661c73 53-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "40e194606632d3a8ab041abbd5c8a403b0517cc1",
+  "prompts": {},
+  "sessions": {
+    "s_4914eb7d946267": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54a5abbb-779f-46e3-aeb7-47871fe4d56e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    }
+  }
+}
