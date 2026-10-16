@@ -1,0 +1,56 @@
+Sources/Corral/PanelController.swift
+  s_52d93df7b363e6::t_684f2cb2f0edfc 114
+  s_52d93df7b363e6::t_b020f7b792eeee 73,79,85-93
+Tests/CorralCoreTests/SafetyTests.swift
+  s_52d93df7b363e6::t_2755d00f52154e 59-77,95-111
+  s_52d93df7b363e6::t_b702ee3477c414 112
+Sources/Corral/Updates.swift
+  s_52d93df7b363e6::t_684f2cb2f0edfc 23,29-30,32,42
+VERSION
+  s_52d93df7b363e6::t_3d9f6ec1321502 1
+Sources/CorralUI/PanelModel.swift
+  s_52d93df7b363e6::t_9d5069e204df91 17-18,34,36-37,75-76,120
+Sources/CorralUI/Rows.swift
+  s_52d93df7b363e6::t_9d5069e204df91 425-432,682
+  s_52d93df7b363e6::t_2a707a372ed875 20,26
+scripts/install.sh
+  s_52d93df7b363e6::t_e499608a0bcd09 35-44,78,83-86
+Sources/CorralUI/Cards.swift
+  s_52d93df7b363e6::t_2a707a372ed875 16,31
+Sources/CorralUI/PanelView.swift
+  s_52d93df7b363e6::t_2a707a372ed875 21-22,43,51-73,101,111,114,119,121
+  s_52d93df7b363e6::t_cb6ab7bbcb8b17 108
+  s_52d93df7b363e6::t_9d5069e204df91 401
+Sources/CorralUI/Theme.swift
+  s_52d93df7b363e6::t_2a707a372ed875 133,135-147
+  s_52d93df7b363e6::t_cf0ccbba2232ef 134
+Sources/CorralCore/Hibernation.swift
+  s_52d93df7b363e6::t_238f17d567dfcb 59,61-65,194-195,199-207,209-212
+Sources/Corral/AppStore.swift
+  s_52d93df7b363e6::t_684f2cb2f0edfc 362
+  s_52d93df7b363e6::t_4ad2b95606f634 26-27,82,88,181-199,205-206,210-225,231-251,253-265,274,278-279,281-282,285-287,289-293,298-322,360,363-366,368-369,371-372,375,377-382,392,394-395,397-415,417-423,432
+Sources/Corral/Resumer.swift
+  s_52d93df7b363e6::t_684f2cb2f0edfc 94-96
+CHANGELOG.md
+  s_52d93df7b363e6::t_3d9f6ec1321502 3-14
+Sources/CorralCore/ActivityLog.swift
+  s_52d93df7b363e6::t_238f17d567dfcb 131-133,135,137,141-143,145-150
+Sources/Corral/AppDelegate.swift
+  s_52d93df7b363e6::t_684f2cb2f0edfc 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "496bf7cf2dc2b1c13fbee9733c9eed6e9b6f6f89",
+  "prompts": {},
+  "sessions": {
+    "s_52d93df7b363e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a9537c2-5f22-4362-9296-2829336ba167",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    }
+  }
+}
