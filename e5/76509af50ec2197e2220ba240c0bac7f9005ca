@@ -1,0 +1,74 @@
+Sources/CorralUI/PanelView.swift
+  s_4914eb7d946267::t_f9fb42185fd85d 95-97,279-286,297-299
+  s_4914eb7d946267::t_eeeec9a01767ef 300-304
+  s_4914eb7d946267::t_0192d1086d7e53 305
+Sources/CorralCLI/Output.swift
+  s_4914eb7d946267::t_25f090517e6bd1 133-147
+Sources/CorralUI/PanelModel.swift
+  s_4914eb7d946267::t_f9fb42185fd85d 65-66,80-81
+  s_4914eb7d946267::t_6ed16177d9736c 82
+Sources/CorralUI/Settings.swift
+  s_4914eb7d946267::t_f9fb42185fd85d 48-51,78
+Sources/Corral/AppDelegate.swift
+  s_4914eb7d946267::t_b7497cf83fd265 37,44,84,86,118
+Tests/CorralCoreTests/SafetyTests.swift
+  s_4914eb7d946267::t_15411e114d0bbe 1-103
+Sources/CorralUI/Cards.swift
+  s_4914eb7d946267::t_f9fb42185fd85d 75-81,123-125
+Sources/CorralUI/PreviewData.swift
+  s_4914eb7d946267::t_b7497cf83fd265 139-147
+Sources/Corral/AppStore.swift
+  s_4914eb7d946267::t_b7497cf83fd265 24-25,36,48,98,103,107-122,125-126,134,143,165-166,172,184,200,238-244,256-262,266,272
+Sources/CorralCore/Redact.swift
+  s_4914eb7d946267::t_1f15332d5610d1 21-22
+  s_4914eb7d946267::t_f0b20d0a300d68 1-20,23-63
+Sources/CorralCore/Hibernation.swift
+  s_4914eb7d946267::t_1f15332d5610d1 69-70,75-76,78,152-153,155-156,158-173,175-176,179-181,183-201
+  s_4914eb7d946267::t_25f090517e6bd1 182
+CHANGELOG.md
+  s_4914eb7d946267::t_7bf6b310e1542e 1-19
+Sources/Corral/SettingsView.swift
+  s_4914eb7d946267::t_b7497cf83fd265 24,59-70,79,143
+scripts/release.sh
+  s_4914eb7d946267::t_27606187e16aa3 20-21
+  s_4914eb7d946267::t_c3a03f5e4f10d6 36
+  s_4914eb7d946267::t_834e4ec8eb5e7e 1-19,22-35,37-57
+Sources/CorralCLI/main.swift
+  s_4914eb7d946267::t_25f090517e6bd1 20,36-43,115,148,184,202,221,224,229-237
+  s_4914eb7d946267::t_678746cd2f5c3e 238-239
+Sources/CorralCore/ActivityLog.swift
+  s_4914eb7d946267::t_16594d743adcbf 99,101-104
+  s_4914eb7d946267::t_65e55b730996b2 1-98,100,105-162
+Sources/CorralUI/Rows.swift
+  s_4914eb7d946267::t_f9fb42185fd85d 50,66-71,264-267,411,414,472,478-480,690-703,706-727,730-738,740-795
+  s_4914eb7d946267::t_fa4ca125e4192c 704-705,728-729,739
+Sources/CorralPreview/main.swift
+  s_4914eb7d946267::t_b7497cf83fd265 61-64,74
+  s_4914eb7d946267::t_4cab6d188d26b6 11,71-73
+README.md
+  s_4914eb7d946267::t_c81fa61e0df398 44,47,60-68
+  s_4914eb7d946267::t_6cd5af2141b5b6 78-79
+  s_4914eb7d946267::t_27606187e16aa3 11,114
+  s_4914eb7d946267::t_198469fa15eaa8 3-4,7-10,12-22,48,55,109-110,112
+  s_4914eb7d946267::t_f38fa6692c5314 69
+VERSION
+  s_4914eb7d946267::t_7bf6b310e1542e 1
+Tests/CorralCoreTests/SnapshotTests.swift
+  s_4914eb7d946267::t_c4e50f78044d17 242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e576509af50ec2197e2220ba240c0bac7f9005ca",
+  "prompts": {},
+  "sessions": {
+    "s_4914eb7d946267": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54a5abbb-779f-46e3-aeb7-47871fe4d56e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    }
+  }
+}
