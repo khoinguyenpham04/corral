@@ -1,0 +1,50 @@
+Sources/CorralCLI/main.swift
+  s_4914eb7d946267::t_304f5f30486bed 176
+packaging/corral.rb
+  s_4914eb7d946267::t_81194e0e5a8557 1-23
+README.md
+  s_4914eb7d946267::t_c2f97ec9215cba 10,36-37,88,91-98
+Sources/CorralCore/Sessions/ClaudeSessions.swift
+  s_4914eb7d946267::t_304f5f30486bed 74-78,82-83
+Sources/Corral/AppStore.swift
+  s_4914eb7d946267::t_da2529913ae642 21-23,26-35,85-92,94,108,131,164-170,173
+  s_4914eb7d946267::t_304f5f30486bed 179-181,194-197
+Sources/CorralUI/Rows.swift
+  s_4914eb7d946267::t_304f5f30486bed 333-334
+Sources/Corral/PanelController.swift
+  s_4914eb7d946267::t_afaa7dbac6289e 69-71
+Sources/CorralUI/PanelModel.swift
+  s_4914eb7d946267::t_da2529913ae642 80-83
+Sources/CorralCLI/Output.swift
+  s_4914eb7d946267::t_304f5f30486bed 107-108,127-128
+Sources/CorralCore/SnapshotBuilder.swift
+  s_4914eb7d946267::t_0fc06ed11295fc 13-18,37
+Sources/CorralCore/Engine.swift
+  s_4914eb7d946267::t_0fc06ed11295fc 39-40,51-61
+Sources/CorralCore/Model.swift
+  s_4914eb7d946267::t_304f5f30486bed 123-126,180
+Sources/CorralCore/Classifier.swift
+  s_4914eb7d946267::t_0fc06ed11295fc 594
+scripts/build.sh
+  s_4914eb7d946267::t_d9829e045d5a22 32-36,166
+  s_4914eb7d946267::t_81194e0e5a8557 12,17,26-27,158-165
+Sources/Corral/AppDelegate.swift
+  s_4914eb7d946267::t_da2529913ae642 29,79,84
+  s_4914eb7d946267::t_aeec94061b90ee 15-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "55c059c6c9bdc8c8688940fa1e042febf7fff223",
+  "prompts": {},
+  "sessions": {
+    "s_4914eb7d946267": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54a5abbb-779f-46e3-aeb7-47871fe4d56e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    }
+  }
+}
