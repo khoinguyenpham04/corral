@@ -1,0 +1,155 @@
+.gitignore
+  s_52d93df7b363e6::t_d5f66aeab23a5f 1-8
+CHANGELOG.md
+  s_52d93df7b363e6::t_f4e9d009189726 1-89
+Package.swift
+  s_c615c2954ecef7::t_b652226db0598d 1-23
+README.md
+  s_52d93df7b363e6::t_ef64b5ea2ebe6d 1-83
+Resources/Corral.entitlements
+  s_a2cd95cd1e637f::t_bb446ce5c52e00 1-9
+Resources/Info.plist
+  s_52d93df7b363e6::t_d3150db7342217 1-38
+Sources/Corral/AppDelegate.swift
+  s_52d93df7b363e6::t_92a3873ea75b96 1-154
+Sources/Corral/PanelController.swift
+  s_52d93df7b363e6::t_1fa6600935728c 1-130
+Sources/Corral/Resumer.swift
+  s_52d93df7b363e6::t_f6eea877ad1c3c 1-212
+Sources/Corral/StatusItemController.swift
+  s_4914eb7d946267::t_6cfcc4c318f7a1 1-122
+Sources/Corral/System.swift
+  s_52d93df7b363e6::t_ef05f568f6a5e3 1-94
+Sources/Corral/WorktreeWatcher.swift
+  s_52d93df7b363e6::t_d82dd0728fd82d 1-215
+Sources/CorralCLI/Output.swift
+  s_52d93df7b363e6::t_c6896e84b1d2c5 1-190
+Sources/CorralCLI/main.swift
+  s_52d93df7b363e6::t_f595e6cfa8b0ad 1-310
+Sources/CorralCore/Activity.swift
+  s_a2cd95cd1e637f::t_8415b9fe8f5804 1-71
+Sources/CorralCore/ActivityLog.swift
+  s_52d93df7b363e6::t_c450dff8468718 1-180
+Sources/CorralCore/DiskScanner.swift
+  s_52d93df7b363e6::t_3c6b4665459392 1-358
+Sources/CorralCore/EditTracker.swift
+  s_52d93df7b363e6::t_6f745f820f2219 1-110
+Sources/CorralCore/Engine.swift
+  s_52d93df7b363e6::t_abcce6436c2636 1-86
+Sources/CorralCore/Format.swift
+  s_52d93df7b363e6::t_1f4a06515f6fff 1-64
+Sources/CorralCore/Grouping.swift
+  s_4914eb7d946267::t_6297381f812d87 1-207
+Sources/CorralCore/Hibernation.swift
+  s_52d93df7b363e6::t_539623a5b164f2 1-214
+Sources/CorralCore/IdleWorktrees.swift
+  s_52d93df7b363e6::t_42ee05268a5557 1-468
+Sources/CorralCore/Model.swift
+  s_52d93df7b363e6::t_480920f8d09fec 1-398
+Sources/CorralCore/Redact.swift
+  s_4914eb7d946267::t_b0ddaf49d54cb0 1-63
+Sources/CorralCore/SQLite.swift
+  s_a2cd95cd1e637f::t_a5b5e8c5e194d6 1-40
+Sources/CorralCore/Sessions/ClaudeSessions.swift
+  s_4914eb7d946267::t_a05f486598dbad 1-103
+Sources/CorralCore/Sessions/CodexSessions.swift
+  s_4914eb7d946267::t_0842b66ed862da 1-102
+Sources/CorralCore/Sessions/OpenCodeSessions.swift
+  s_a2cd95cd1e637f::t_e84d81ffba4925 1-100
+Sources/CorralCore/SnapshotBuilder.swift
+  s_52d93df7b363e6::t_a9f1e6dc235f85 1-360
+Sources/CorralCore/Subprocess.swift
+  s_52d93df7b363e6::t_5a269bf1450e7a 1-95
+Sources/CorralCore/SystemStats.swift
+  s_4914eb7d946267::t_cd88c49c36a85b 1-52
+Sources/CorralCore/WorktreeStore.swift
+  s_52d93df7b363e6::t_c861d0f1f72659 1-904
+Sources/CorralCore/Worktrees.swift
+  s_4914eb7d946267::t_8a73805cd362c7 1-189
+Sources/CorralPreview/main.swift
+  s_52d93df7b363e6::t_4409cee1054a2e 1-208
+Sources/CorralUI/Bar.swift
+  s_52d93df7b363e6::t_c1dde5321bd661 1-309
+Sources/CorralUI/Cards.swift
+  s_52d93df7b363e6::t_b29f31bff20d47 1-188
+Sources/CorralUI/DiskRows.swift
+  s_52d93df7b363e6::t_21ce6a69dde0a8 1-176
+Sources/CorralUI/Fold.swift
+  s_52d93df7b363e6::t_81a397be4feff1 1-136
+Sources/CorralUI/Hero.swift
+  s_52d93df7b363e6::t_03a587b45cd378 1-172
+Sources/CorralUI/PanelHost.swift
+  s_52d93df7b363e6::t_84fe5fb0bed50f 1-65
+Sources/CorralUI/PanelModel.swift
+  s_52d93df7b363e6::t_2037f7d28e3f1a 1-243
+Sources/CorralUI/PanelView.swift
+  s_52d93df7b363e6::t_476258fd3a0c0c 1-669
+Sources/CorralUI/PreviewData.swift
+  s_52d93df7b363e6::t_7df8bc8b20c049 1-202
+Sources/CorralUI/Rows.swift
+  s_52d93df7b363e6::t_22177993a3cdb2 1-856
+Sources/CorralUI/Settings.swift
+  s_52d93df7b363e6::t_077b11a842f0cd 1-98
+Sources/CorralUI/Shapes.swift
+  s_52d93df7b363e6::t_d0bd70882c80a8 1-133
+Tests/CorralCoreTests/DiskTests.swift
+  s_52d93df7b363e6::t_aad5562d52aa53 1-986
+Tests/CorralCoreTests/SafetyTests.swift
+  s_52d93df7b363e6::t_06c53c0b35f97a 1-170
+Tests/CorralCoreTests/SnapshotTests.swift
+  s_52d93df7b363e6::t_9cc7b1bd1ad4ce 1-316
+Tests/CorralCoreTests/WorktreeTests.swift
+  s_52d93df7b363e6::t_6c8109c739cc36 1-113
+VERSION
+  s_52d93df7b363e6::t_180f50705fa835 1
+packaging/dmg/settings.py
+  s_52d93df7b363e6::t_43283419b2c565 1-34
+scripts/TestMain.swift
+  s_4914eb7d946267::t_9c1a6aa22d040e 1-11
+scripts/build.sh
+  s_52d93df7b363e6::t_5217bbe9779883 1-201
+scripts/make-icon.swift
+  s_4914eb7d946267::t_91073bdf92b6e7 1-121
+packaging/dmg/build.py
+  s_52d93df7b363e6::t_72e869b2c43be9 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d322e142d7497bdeb2e788b7ac9a55d486eb253e",
+  "prompts": {},
+  "sessions": {
+    "s_4914eb7d946267": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54a5abbb-779f-46e3-aeb7-47871fe4d56e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    },
+    "s_52d93df7b363e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6a9537c2-5f22-4362-9296-2829336ba167",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    },
+    "s_a2cd95cd1e637f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ca91999b-cbd1-4c4e-8277-58508f9068c9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    },
+    "s_c615c2954ecef7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a14451-c364-7141-996c-5e791d25f6cc",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Noah (Nguyen Pham) <ptknguyen04@gmail.com>"
+    }
+  }
+}
